@@ -3,7 +3,6 @@
 </div>
  
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Suganya+Subramaniam+%F0%9F%91%8B;Full-Stack+%2B+AI+Developer;B.E.+ECE+(AI+Engineering)+%40+;Welcome+to+my+Space" alt="Typing SVG" />
 
 </div>
