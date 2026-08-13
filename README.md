@@ -10,12 +10,8 @@
 
 - 🔭 Focused on building **full-stack, AI-powered products** end-to-end — not just prototypes
 - 🏗️ Architecting scalable web apps with **React, Node.js, Express & MySQL**
-- 🌱 Exploring **LangChain, RAG & Agentic AI Systems** — using AI to solve real problems
-- 🎓 B.E. Electronics & Communication Engineering (AI Engineering) @ **VSB Engineering College**, Karur | Expected 2028
 - 🏆 Hackathon Finalist — InnovateX 4.0 (Presidency College, Bangalore) & India Innovates 2026 (New Delhi)
-- 🎯 Class Representative — balancing leadership with hands-on engineering
 - 📫 Open to **Software Engineering internship** opportunities
-- ⚡ Fun fact: I learn best by building — Cursor & Antigravity IDE are my daily drivers
 
 ---
 
