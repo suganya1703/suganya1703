@@ -24,11 +24,6 @@
 
 ### 🎯 Current Focus & Projects
 
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/FULL--STACK%20APPS-2E9EF7?style=for-the-badge)
-![Agri-Tech](https://img.shields.io/badge/AGRI--TECH-4CAF50?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS%20BUILDING-purple?style=for-the-badge)
-
 | Project | Description | Tech |
 |---|---|---|
 | 🌾 **[Agritholan](https://github.com/suganya1703/Agritholan)** | Real-time AI farming assistant for crop-related queries with voice support | React, Node.js, MySQL, AI/NLP |
@@ -49,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suganya1703&theme=redical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suganya1703&theme=react-dark" />
 </p>
 
 ---
